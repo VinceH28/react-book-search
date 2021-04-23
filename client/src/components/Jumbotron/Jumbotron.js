@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBar from "../SearchBar"
+import SearchBar from "../SearchBarResullts"
 import Search from "../Search"
 import "./style.css";
 
