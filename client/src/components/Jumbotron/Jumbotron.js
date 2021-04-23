@@ -1,6 +1,6 @@
 import React from "react";
-import SearchBar from "../SearchBarResullts"
-import Search from "../Search"
+import SearchBar from "../SearchBarResullts/SearchBar"
+import Search from "../Search/Search"
 import "./style.css";
 
 function Jumbotron() {
