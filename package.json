@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": " Google Search ",
   "main": "server.js",
-
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
@@ -13,21 +12,18 @@
     "mongodb": "^3.6.6",
     "mongoose": "^5.12.5"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC"
