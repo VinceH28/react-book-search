@@ -1,16 +1,20 @@
 import React from "react";
+import SearchBar from "../SearchBar"
+import Search from "../Search"
 import "./style.css";
 
 function Jumbotron() {
   return (
-    <div id="community" className="jumbotron jumbotron-fluid">
-      <div className="container">
-        <h1 className="display-4">
-          <p>
-          Google Book Seach <br/>
-            Let's Get Looking!
-          </p>
-        </h1>
+    <div className="container jumboCards">
+
+    <div className="container img-fluid jumbotronContainer container-fluid">
+      <div>
+        
+        <SearchBar />
+        <br></br>
+        <Search/>
+        
+      </div>
       </div>
     </div>
   );
