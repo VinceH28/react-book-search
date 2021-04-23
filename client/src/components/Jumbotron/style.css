@@ -1,0 +1,10 @@
+.container{
+    padding: 40px;
+    background-color: rgb(115, 150, 221);
+    color: rgb(185, 185, 185);
+    width: 1537px;
+}
+
+h1{
+    font-size: 26px;
+}
