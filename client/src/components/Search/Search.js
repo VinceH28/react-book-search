@@ -6,7 +6,7 @@ function Search(props){
     return(
         <div className="searchInput">
             <form id="searchForm">
-            <input placeholder="Harry Potter and The Half Blood Prince"></input>
+            <input placeholder="Let's find some books!..."></input>
             </form>
             <button id="SearchBtn"></button>
         </div>
